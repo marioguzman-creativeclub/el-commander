@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "agentes": {
+    "coach": [
+      {
+        "id": "commander-v01-publicado-20261001",
+        "titulo": "EL COMMANDER v0.1 publicado",
+        "fecha": "2026-10-01",
+        "resumen": "Cinco pestañas navegables: COACH, MARIE, JUAN, MACA y PETER. Los botones y el deslizador funcionan. Todavía es un prototipo, sin conexiones a servicios ni ejecución de misiones.",
+        "estado": "publicado",
+        "link": "https://github.com/marioguzman-creativeclub/el-commander",
+        "ejemplo": false
+      }
+    ],
+    "marie": [{"id":"marie-muestra-001","titulo":"Primero el mapa","fecha":"2026-10-01","resumen":"Una propuesta de orden: separar entradas, proyectos y material listo para guardar. No se movió ni analizó ningún archivo.","estado":"ejemplo","ejemplo":true}],
+    "juan": [{"id":"juan-muestra-001","titulo":"Un radar sin ruido","fecha":"2026-10-01","resumen":"Un lugar para el brief y el clipping. Esta tarjeta es una muestra: no hay noticias en vivo ni fuentes conectadas.","estado":"ejemplo","ejemplo":true}],
+    "maca": [{"id":"maca-muestra-001","titulo":"Leer para conectar","fecha":"2026-10-01","resumen":"Resumen, conexiones y preguntas sobre una lectura. Esta devolución es ilustrativa: no se procesó ningún libro.","estado":"ejemplo","ejemplo":true}],
+    "peter": [{"id":"peter-muestra-001","titulo":"Una vista para probar un look","fecha":"2026-10-01","resumen":"Los controles cambian una ilustración de muestra. No es una foto tuya, no aplica un LUT y no exporta archivos.","estado":"ejemplo","ejemplo":true}]
+  }
+}
