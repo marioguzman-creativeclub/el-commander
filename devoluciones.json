@@ -24,6 +24,14 @@
     ],
     "juan": [
       {
+        "id": "juan-brief-20261002",
+        "titulo": "Brief del día: energía, tasas y soberanía",
+        "fecha": "2026-10-02",
+        "resumen": "Titular: los bonos del Tesoro de EE. UU. cierran su peor trimestre desde 1994 y el riesgo país argentino llega a 636. Hilo: la energía cara de la guerra se vuelve inflación, tasas y deuda; la infraestructura (energía, cómputo, satélites) se vuelve soberanía; la frontera de la IA se administra como seguridad; las instituciones se negocian con intercambios.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
+      {
         "id": "juan-muestra-001",
         "titulo": "Un radar sin ruido",
         "fecha": "2026-10-01",
