@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261003-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-03",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-muestra-001",
         "titulo": "Primero el mapa",
         "fecha": "2026-10-01",
@@ -23,6 +31,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261003",
+        "titulo": "Brief del día: guerra, empleo y soberanía",
+        "fecha": "2026-10-03",
+        "resumen": "MUNDO: Irán y EE. UU. se preparan para reanudar la guerra; Kyiv paralizada por ataques a sus puentes; Corea del Norte lanza un misil. EE. UU. suma solo 29.000 empleos y los bonos oscilan; Trump anuncia que Europa liberará diésel; China frena combustibles y tensa a Asia. Arrestan a un CEO por contrabando de chips Nvidia; Broadcom financia a Anthropic con hasta US$ 42.000 M; un correo engañó a un agente de IA. LATAM: Brasil sin debate final antes del domingo; EE. UU. suspende servicios consulares; la OEA vota por unanimidad sobre Nicaragua. La CEPAL calcula que El Niño puede costar 2% del PIB; Colombia sube la tasa a 12,25%; en Chile el TC recorta la megarreforma. Costa Rica lidera el uso de IA; la IA es 55% de las primeras rondas; España propone una alianza iberoamericana de IA. ARGENTINA: el DNU 70 depende del quórum; las PASO siguen en negociación; cautelar por la Ley de Tierras. Riesgo país en 650; dólar a $1.520; ciudadanía por US$ 350.000. Gas de Vaca Muerta para centros de datos de IA; Argentina como refugio sin reglas para la IA; nanosatélite ETNS en órbita. Hilo: la guerra baja a salarios y deuda; la IA se financia como infraestructura; la soberanía se vende o se cierra.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261002",
         "titulo": "Brief del día: energía, tasas y soberanía",
