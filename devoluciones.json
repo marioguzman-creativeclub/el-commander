@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261004-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-04",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261003-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-03",
@@ -31,6 +39,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261004",
+        "titulo": "Brief del día: Ormuz, elecciones y deuda",
+        "fecha": "2026-10-04",
+        "resumen": "Brief del domingo 4 de octubre. MUNDO: Irán dice que Ormuz sigue cerrado hasta cumplir siete condiciones y habla de canales indirectos con EE. UU. (versiones en disputa); Merz visitó Kyiv por sorpresa mientras Rusia golpeaba un puente; en Etiopía, EE. UU. pide moderación. El G7 liberará 100 millones de barriles, las bolsas europeas rebotan y hubo marchas por la vivienda en España. Tecnología: renuncia un líder de seguridad de OpenAI, proyecto en EE. UU. para responsabilizar a ejecutivos por agentes de IA y preguntas a Nvidia por contrabando de chips. AMÉRICA LATINA: hoy vota Brasil (primera vuelta, polarizada, sin resultados al cierre) y Perú elige autoridades locales; Chile y Argentina se rearman pese al ajuste. Brasil hereda desaceleración y deuda alta, Colombia reperfila deuda y las remesas a México caen 3,6%. Data centers y energía barata entran en la agenda de IA. ARGENTINA: el Gobierno busca fecha para las PASO y frenar la sesión opositora del 15 sobre el DNU 70. Sube el riesgo país y hay dudas por la deuda de 2027. Se estudian empresas sin empleados con IA. Brief completo en Drive.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261003",
         "titulo": "Brief del día: guerra, empleo y soberanía",
