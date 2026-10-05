@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261005-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-05",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261004-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-04",
@@ -39,6 +47,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261005",
+        "titulo": "Brief del día: Brasil, Ormuz y DNU 70",
+        "fecha": "2026-10-05",
+        "resumen": "Brief del lunes 5 de octubre. MUNDO: Irán revisa la respuesta de EE. UU. a su plan de siete días para frenar la guerra y reabrir Ormuz (Washington no lo confirma); Rusia bombardeó Kyiv durante la visita de Merz; Sánchez convoca elecciones en España el 29 de noviembre por la vivienda. Bolsas al alza porque se aleja una suba de la Fed, el petróleo baja pero sigue sobre US$ 100 y la UE va a Beijing a evitar una guerra comercial. Tecnología: Altman pide aceptar algunos daños de la IA, China acumula equipos de litografía y las grandes de IA declaran en Nueva York. AMÉRICA LATINA: en Brasil Flávio Bolsonaro (47,03%) superó a Lula (45,16%) y habrá balotaje el 25 de octubre; Colombia redacta un decreto duro contra protestas. Cae el peso mexicano, el dólar en Chile roza los $1.000. México lanza una fábrica pública de IA. ARGENTINA: el Gobierno posterga su agenda para blindar el DNU 70 antes de la sesión del 15 y negocia las PASO con gobernadores. El BCRA compró más reservas, la inflación triplicó la base monetaria y se recorta el crecimiento. IA que detecta incendios y venta por ChatGPT para pymes. Brief completo en Drive.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261004",
         "titulo": "Brief del día: Ormuz, elecciones y deuda",
