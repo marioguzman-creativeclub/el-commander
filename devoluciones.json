@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261006-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-06",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261005-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-05",
@@ -47,6 +55,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261006",
+        "titulo": "Brief del día: mediación, balotaje y PASO",
+        "fecha": "2026-10-06",
+        "resumen": "Brief del martes 6 de octubre. MUNDO: Qatar dice que las conversaciones EE. UU.-Irán siguen por mediadores pese al bloqueo sobre Ormuz (Teherán es escéptico); Rusia afirma haber derribado un récord de 1.750 drones ucranianos en 24 horas (cifra no verificada); Guterres llega a Pakistán, que ofrece mediar. Bolsas europeas al alza, Alemania y Francia piden a Bruselas bloquear importaciones más rápido y se acerca el plazo de la UE para China. Tecnología: investigadores advierten ante el Concejo de Nueva York sobre una IA desalineada, OpenAI y Anthropic aceptarían en Australia reglas de aviso de brechas. AMÉRICA LATINA: Lula busca movilizar abstencionistas para el balotaje del 25; la alcaldía de Lima se define por 44.921 votos; Colombia anuncia una ley de sometimiento. Oxford Economics prevé menor inflación en Brasil si gana Flávio. Paraguay presenta un centro de datos de US$ 12.000 millones. ARGENTINA: el Gobierno apura un pacto con gobernadores radicales por las PASO y necesita 16 votos más en el Senado; Caputo se prepara para un escenario electoral adverso y se duda del blindaje de US$ 75.000 millones. Claro y Oracle ofrecen nube local. Brief completo en Drive.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261005",
         "titulo": "Brief del día: Brasil, Ormuz y DNU 70",
