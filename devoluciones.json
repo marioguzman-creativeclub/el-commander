@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261007-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-07",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261006-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-06",
@@ -55,6 +63,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261007",
+        "titulo": "Brief del día: soberanía, infraestructura y trabajo",
+        "fecha": "2026-10-07",
+        "resumen": "MUNDO: Arabia Saudita confirma ataques a aeropuertos; Quebec elige gobierno independentista; EE.UU. propone ampliar el embargo de armas a Sudán. Petroleras alertan por reservas; Asia del Sur crecería 6,9%; Japón mejora en industria y empeora en servicios. Corea prepara IA propia; Micron acuerda US$600 millones por patentes; Mistral anuncia Large 4, aún sin prueba externa de sus promesas.\nLATINOAMÉRICA: Flávio propone reformar la Constitución; Perú avanza con facultades al Ejecutivo; la JEP objeta revisión militar. México: inversión +6%; Colombia exporta más con dependencia extractiva; Chile prevé crecer 0,7%. Brasil moderniza la red académica; Uruguay presenta proyectos de IA estatal; AWS y Pies Descalzos buscan formar mujeres.\nARGENTINA: Diputados debate soberanía; protesta por tierras; el Gobierno anticipa apelación universitaria. BM recorta crecimiento a 2,1%; riesgo país en 573; industria 11,2% debajo de 2023 según comparación ONUDI/Kulfas. Abre Ekoparty; MODO suma compras con pago confirmado; Cocos separa cripto.\nHILO: soberanía es instituciones e infraestructura; mejora financiera no asegura trabajo; automatizar exige control humano.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261006",
         "titulo": "Brief del día: mediación, balotaje y PASO",
