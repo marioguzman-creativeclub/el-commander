@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261008-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-08",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261007-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-07",
@@ -63,6 +71,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261008",
+        "titulo": "Brief del día: energía cara, IA con deuda y mayorías en disputa",
+        "fecha": "2026-10-08",
+        "resumen": "MUNDO: Rusia golpea Kyiv y otras regiones (22 muertos en Pryluky); EE.UU. pide a Irán reducir el enriquecimiento; Washington dialoga con la junta de Myanmar. India sube la tasa a 5,5%; emergentes pierden US$26.300 M; bolsas caen con petróleo cerca de US$100. SpaceX busca US$40.000 M para chips; Samsung anticipa ganancia récord; Japón apuesta a Rapidus.\nLATINOAMÉRICA: Chile destraba la reforma de seguridad; Brasil, con Congreso más a la derecha antes del balotaje; protestas en Bogotá por Israel. Banco Mundial: región +2,2%; México frena un programa juvenil; Brasil recorta su superávit. Chile prueba IA en mamografías; el BM propone IA práctica; adopción 17%.\nARGENTINA: Senado con Salud Mental y patentes; pulseada por DNU 70/23; PASO sin votos. Caputo busca US$900 M del FMI; BCRA compra más; industria -3,2% anual. Nube Claro-Oracle; faltan estrategia de IA; Google alega 65% de adopción.\nHILO: dinero y energía caros, IA financiada con deuda y poder reordenado; importa quién controla infraestructura y quién paga el ajuste.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261007",
         "titulo": "Brief del día: soberanía, infraestructura y trabajo",
