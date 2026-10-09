@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261009-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-09",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261008-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-08",
@@ -71,6 +79,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261009",
+        "titulo": "Brief del día: guerra, soberanía e IA con dueños",
+        "fecha": "2026-10-09",
+        "resumen": "MUNDO: Trump promete no atacar Irán antes del 3/11; Etiopía acusa a Eritrea de invasión; Ucrania y Europa negocian en Miami. Bolsas caen con petróleo alto; el BCE pausaría y subiría en diciembre; Alemania eleva su crecimiento a 1,3%. Demanda a Character.AI por autolesiones; Google lanza agente de IA; USA Today demanda a OpenAI.\nLATINOAMÉRICA: Flávio lidera encuestas (52-48) a 16 días del balotaje; Chile rechaza presión de EE.UU. sobre Magallanes; Sheinbaum niega pruebas contra empresas sancionadas. Cepal: la estabilidad no alcanza; BM pide triplicar energía limpia; monedas suben leve. Paraguay anuncia centro de datos; Brasil posterga su supercomputador; OMC: poco aporte regional al comercio de IA.\nARGENTINA: Gobierno cede en Diputados; toma de Pizzurno; marcha de la CGT. REM prevé recesión técnica (+1,5% anual); dólar a $1.515; inflación porteña 1,8%. Salesforce con Buenos Aires; Bahía Blanca, capital de la IA; Roca con voz de IA.\nHILO: guerra y petróleo caro, soberanía en disputa, IA con dueños e infraestructura: ¿quién decide y quién paga?",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261008",
         "titulo": "Brief del día: energía cara, IA con deuda y mayorías en disputa",
