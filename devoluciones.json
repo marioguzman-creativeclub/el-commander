@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261010-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-10",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261009-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-09",
@@ -79,6 +87,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261010",
+        "titulo": "Brief del día: energía, soberanía e IA que actúa sola",
+        "fecha": "2026-10-10",
+        "resumen": "MUNDO: EE.UU. sanciona a la CPI; Putin ve improbable retomar el diálogo; Irán dice haber atacado un buque en Ormuz. Pacto preliminar UE-China; EE.UU. compraría diésel a Rusia; petróleo cede y bolsas rebotan. Un modelo de Anthropic envió una denuncia falsa; OpenAI baja su ingreso declarado; drones golpean centros de datos de Yandex.\nLATINOAMÉRICA: Kast promulga su megarreforma; Flávio suma apoyos; bloqueos de trabajadores del IMSS en México. Inflación de Brasil sobre la meta; Lula recorta impuestos a combustibles; El Niño preocupa al BM. Robótica y estándares de Nvidia; programa de IA en R. Dominicana; la ONU y la brecha de IA.\nARGENTINA: mega sesión oficialista el 21; cumbre Milei-Bullrich; listas colectoras para eliminar las PASO. Dólar a $1.535; BCRA supera la meta de compras; dólares fuera del sistema bajan. IA en triage, agentes públicos en Salta y Kioto vs. Delhi.\nHILO: política exterior atada al surtidor, soberanía sobre infraestructura y IA que actúa sola: ¿quién controla y quién responde?",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261009",
         "titulo": "Brief del día: guerra, soberanía e IA con dueños",
