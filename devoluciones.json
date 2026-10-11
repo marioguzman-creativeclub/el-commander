@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261011-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-11",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261010-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-10",
@@ -87,6 +95,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261011",
+        "titulo": "Brief del día: energía, plataformas y rendición de cuentas",
+        "fecha": "2026-10-11",
+        "resumen": "MUNDO: EE.UU. inutiliza un buque que burló el bloqueo a Irán; Trump pide otro líder para Ucrania tras la disputa por el diésel ruso; India reprime protestas juveniles. FMI y Banco Mundial se reúnen bajo el shock energético; amenaza de aranceles a China sacude Wall Street; análisis ve crecimiento firme. EE.UU. empuja responsabilidad legal en IA, flexibiliza chips H200; contratista de Super Micro se declara culpable.\nLATINOAMÉRICA: Brasil exige explicaciones a Meta tras la denuncia de Lula; Colombia investiga aviones oficiales; Perú: piden interpelar al canciller. Uruguay sube la tasa a 6% y desalienta el ahorro en dólares; Banxico deja abierta una baja. Chile crea banco público para validar IA contra el cáncer de mama; formación gratuita en IA; informalidad y empleo.\nARGENTINA: acuerdos con gobernadores; arranca el Presupuesto 2027; ciudadanía por inversión. REM ve recesión; el BCRA absorbe pesos al comprar dólares; debate cambiario. Sin avances en el data center de OpenAI; CONICET y UE en hardware de IA; agenda federal de IA.\nHILO: el combustible condiciona diplomacia y tasas; el poder se disputa en plataformas, chips y reglas.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261010",
         "titulo": "Brief del día: energía, soberanía e IA que actúa sola",
