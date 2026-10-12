@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261012-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-12",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261011-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-11",
@@ -95,6 +103,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261012",
+        "titulo": "Brief del día: treguas sin confirmar e IA bajo control",
+        "fecha": "2026-10-12",
+        "resumen": "MUNDO: Trump anuncia una tregua energética Rusia-Ucrania sin detalles; Irán ofrece mediar tras el ataque hutí a Riad; la UE aprueba nuevas sanciones a Rusia. Cae el petróleo con el plan de comprar diésel ruso; FMI y Banco Mundial abren en Bangkok con crecimiento de 3% y deuda récord. Microsoft pide reglas para la IA; Reino Unido refuerza su defensa; ASML, entre EE.UU. y China.\nLATINOAMÉRICA: China sanciona a ministros de Paraguay y Belice por Taiwán; Kast cae a 27% de aprobación; Lula moviliza por menos jornada laboral. Banco Mundial ve 2,2% regional; el peso mexicano pierde 9%; Nicaragua sube a 3,6%. México cuarto en preparación para IA; Ecuador sin marco de IA; Anthropic corta el internet de sus pruebas.\nARGENTINA: Ley de Soberanía y Súper RIGI negocian con aliados; mesa política por 2027. Se espera inflación de 1,9% a 2,1%; Caputo viaja al FMI; Broda ve riesgo cambiario mayor. SAIACONF, Mendoza Aumentada y Silicon bonaerense.\nHILO: una tregua sin confirmar mueve mercados; la IA exige reglas antes que daños.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261011",
         "titulo": "Brief del día: energía, plataformas y rendición de cuentas",
