@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261013-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-13",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261012-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-12",
@@ -103,6 +111,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261013",
+        "titulo": "Brief del día: resiliencia frágil y reglas para la IA",
+        "fecha": "2026-10-13",
+        "resumen": "MUNDO: Trump dice que la tregua energética rige pese a nuevos ataques rusos; su acuerdo por diésel ruso recibe críticas bipartidistas; Alemania abre el juicio por el Nord Stream. El FMI sube a 3,1% el crecimiento mundial, ve resiliencia avanzada y recorta al Golfo por Ormuz. Washington presiona a las empresas de IA con leyes vigentes; Microsoft presenta Maia 300; Singapur pide transparencia.\nLATINOAMÉRICA: Colombia anuncia Estatuto Antiterrorista; México propone embajadora en Perú; Chile debate endurecer acusaciones constitucionales. FMI: región 2,3%, Chile 0,6% e inflación de 4,2%. Centro de IA de US$12.000 millones en Paraguay; IA en escuelas de El Salvador; reglas de IA educativa en Brasil.\nARGENTINA: prohíben el ingreso a un periodista brasileño; vence el ultimátum por Sea Lion; la oposición busca quórum contra el DNU 70. FMI recorta a 2,1% y ve inflación de 32,5%; tasas de ahorro bajas. Data centers, regulación de IA trabada y uso de IA sobre el promedio mundial.\nHILO: el FMI ve resiliencia con deuda y guerra; la IA se controla con leyes existentes.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261012",
         "titulo": "Brief del día: treguas sin confirmar e IA bajo control",
