@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261014-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-14",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261013-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-13",
@@ -111,6 +119,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261014",
+        "titulo": "Brief del día: Ormuz, petróleo y reglas para la IA",
+        "fecha": "2026-10-14",
+        "resumen": "MUNDO: Irán amplía la vigilancia en Ormuz mientras suben los ataques a buques; Rusia deja 600.000 sin luz en Ucrania pese a la \"tregua energética\"; un ataque hutí daña oficinas de Aramco en Riad. Petróleo en torno a USD 93 (WTI) y 106 (Brent), con la inflación de EE.UU. a la espera. La UE investiga a OpenAI y Anthropic; EE.UU. ata licencias de chips a inversión; Anthropic pide revisión de su veto.\nLATINOAMÉRICA: marcha en Colombia contra el gobierno de De la Espriella; debate en México por un canje de presos; EE.UU. busca votos contra Cuba en la ONU. Colombia prevé un sexto año sin cumplir la meta de inflación; Argentina, segunda en inflación mensual regional; Brasil prohíbe apuestas en línea. IA: sandbox de la ANPD, demanda de abogados a Enter, IA feminista.\nARGENTINA: Malvinas vuelve a Diputados; la oposición sin votos asegurados contra el DNU 70; el Gobierno prepara un cierre de año intenso. Inflación de 1,9% y 23,6% en el año, núcleo 1,7%; el BCRA compra USD 291 millones y el riesgo país ronda 600. Nube de Claro y Oracle, clúster con China y acuerdo de Salesforce con Provincia.\nHILO: Ormuz y el petróleo ordenan el mapa; la IA se regula por casos.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261013",
         "titulo": "Brief del día: resiliencia frágil y reglas para la IA",
