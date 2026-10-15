@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261015-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-15",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261014-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-14",
@@ -119,6 +127,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261015",
+        "titulo": "Brief del día: energía, tasas y tribunales para la IA",
+        "fecha": "2026-10-15",
+        "resumen": "MUNDO: Ucrania ataca una refinería rusa y Zelenski da por terminada la tregua; Rubio pide desescalar entre Etiopía y Eritrea; Arabia Saudita dice que frustró un misil sobre Medina. Bolsas asiáticas se hunden (KOSPI casi 8%) tras el IPC alto de EE.UU.; el dólar baja de su máximo de 18 meses; Brent en USD 104,5 tras hundirse un buque en Ormuz. Ocho estados demandan a OpenAI por ChatGPT y menores; Huang pide cooperar con China en seguridad; OpenAI cede ante Apple.\nLATINOAMÉRICA: miles marchan en Colombia contra De la Espriella; Brasil aprueba semana laboral más corta antes del balotaje y el partido de Lula denunciará a Meta. Monedas caen tras el IPC de EE.UU.; el FMI ve a Bolivia en contracción y a Paraguay entre los mejores. Brasil y México regulan IA sin ley general; IFC: la IA dependerá de capital privado.\nARGENTINA: sesión por el DNU 70 con dudas de quórum; el oficialismo cede en la venta de tierras; Marcha Universitaria. Riesgo país sobre 600; el BCRA compra USD 101 millones y las reservas bajan a USD 49.722 millones. IA: comisión del CONICET, Varsavsky en salud y demanda de PERFIL contra OpenAI.\nHILO: la energía y las tasas ordenan el mapa; la IA se regula en tribunales.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261014",
         "titulo": "Brief del día: Ormuz, petróleo y reglas para la IA",
