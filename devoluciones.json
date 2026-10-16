@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261016-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-16",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261015-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-15",
@@ -127,6 +135,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261016",
+        "titulo": "Brief del día: energía, control de la IA y DNU 70",
+        "fecha": "2026-10-16",
+        "resumen": "MUNDO: Rusia golpea nueve regiones de Ucrania y Zelenski y Trump se cruzan críticas; la orden de limitar Starshield vino de la Casa Blanca, según fuentes; los votantes árabes pueden definir la elección en Israel. Las bolsas rebotan; Brent en USD 105 y EE.UU. evalúa aliviar sanciones a la flota en la sombra. China propone controles a 23 tecnologías de IA; Taiwán evalúa limitar chips a China; Wired: nadie paga los daños de los agentes de IA.\nLATINOAMÉRICA: tribunal electoral de Brasil falla a favor de Lula contra Meta; Lula apoya bajar la edad penal a 16; el giro a la derecha pone a prueba a China. Banxico mantiene 10%; el FMI pide bajar deuda; Secmca propone bajar el riesgo país. IA: debate en la OEA, índice ILIA de la CEPAL el 20/10 y Pacto Pyme en Chile.\nARGENTINA: fracasó la sesión contra el DNU 70 por ocho votos; Ley Malvinas sin dictamen; marcha universitaria masiva con represión según El País. Argentina frena bonos en dólares; riesgo país sube por el factor externo; licitación de $6,6 billones. IA: centros de datos y Súper RIGI, Cessi SummIT y cámaras en Río Negro.\nHILO: la energía y el control de la IA ordenan el mapa.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261015",
         "titulo": "Brief del día: energía, tasas y tribunales para la IA",
