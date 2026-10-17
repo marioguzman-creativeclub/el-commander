@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261017-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-17",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261016-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-16",
@@ -135,6 +143,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261017",
+        "titulo": "Brief diario JUAN - 17 de octubre de 2026",
+        "fecha": "2026-10-17",
+        "resumen": "MUNDO. Política: Francia marcha contra el coste de vida; Trump exime a India de aranceles por energía rusa; un tanquero tocó una mina en Ormuz, según Irán. Economía: el FMI advierte que la resiliencia se compró con subsidios y deuda récord; bolsas y dólar en baja semanal. Tecnología: el SOX, peor racha desde 2008; TSMC bate récords; SK Hynix muestra la HBM4E.\nAMÉRICA LATINA. Política: Brasil, recta final con debate el domingo y empate técnico; EE.UU. envía 600 soldados a Panamá, Honduras y Colombia. Economía: Cepal proyecta exportaciones +20% en 2026; venture capital más selectivo; Perú creció 3,23%. Tecnología: dos startups colombianas ganan LEGADO 2026; siete peruanas buscan capital; fintechs de Pygma.\nARGENTINA. Política: negocian suspender las PASO; las promesas que salvaron el DNU 70; Landau llega el lunes. Economía: récord de compra de dólares del BCRA y reservas récord; inflación en serrucho; riesgo país en 648. Tecnología: Uber invertirá US$ 1.000M y vuelve Uber Eats; vuelve Tecweek; Newsan abre su usina.\nHILO: nadie duda de la IA, sino de quién paga los centros de datos; todo pasa por Brasil; el Gobierno gana y la macro da señales cruzadas.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261016",
         "titulo": "Brief del día: energía, control de la IA y DNU 70",
