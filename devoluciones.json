@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261018-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-18",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261017-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-17",
@@ -143,6 +151,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261018",
+        "titulo": "Brief diario JUAN - 18 de octubre de 2026",
+        "fecha": "2026-10-18",
+        "resumen": "MUNDO. Política: Francia, protestas: ardió el ayuntamiento de Limoges; Ucrania golpea San Petersburgo; Egipto evalúa entrar a Yemen. Economía: IPC de EE.UU. caliente y Brent a USD 110; el FMI: la IA explica la mitad del comercio global; San Francisco frena centros de datos. Tecnología: DeepSeek abre su V4.1; Taiwán castigará el tráfico de chips a China; CXMT x7 en ingresos.\nLATAM. Política: qué se juega Colombia en Brasil; 74% de los latinos desaprueba a Trump; la región gira a Israel. Economía: la deuda en Brasil tras la euforia electoral; semana de datos; inflación y El Niño a la vez. Tecnología: BID Lab e IFC, US$35M a Cometa IV; El Salvador, laboratorio de startups; EdTech madura.\nARGENTINA. Política: cruje la disciplina libertaria; el peronismo se une por las PASO; el Gobierno corre el foco a la política. Economía: Wall Street pregunta por los dólares de 2027; BCRA compró US$15.210M, reservas +US$8.750M; peso 19% caro para el Big Mac. Tecnología: pagos digitales, USD 5.200M al año; Siemens digitaliza Vaca Muerta; Tesla vuelve con Milei.\nHILO: la IA ya es macro y choca con sus costos; la urgencia electoral corre delante de la macro; Brasil ordena todo.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261017",
         "titulo": "Brief diario JUAN - 17 de octubre de 2026",
