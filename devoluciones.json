@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261019-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-19",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261018-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-18",
@@ -151,6 +159,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261019",
+        "titulo": "Brief diario JUAN - 19 de octubre de 2026",
+        "fecha": "2026-10-19",
+        "resumen": "MUNDO. Política: Macron blinda a su ministro del Interior; Meloni, crisis por Milán; Zelenski acusa a EE.UU. de pedir su capitulación. Economía: China creció 4,5%, yuan récord desde 2022; Trump pospone sanciones a Rusia; protestas golpean bonos y euro; balances de Meta. Tecnología: Samsung hará el HBM de Nvidia en TSMC; Broadcom-Google renuevan; Qualcomm, chips de IA (+11%).\nLATAM. Política: debate Lula-Flávio sin ideas; Colombia fija por decreto su Caribe; cumbre antipobreza en Panamá. Economía: se enfría el rally; Cepal mapea aranceles; México-Perú reactivan la Alianza del Pacífico. Tecnología: venture +26%, México supera a Brasil; mapa de 162 startups de IA; Giraffe Bio, US$6,4M.\nARGENTINA. Política: sin acuerdo por Discapacidad, agitan el veto; semana clave en Diputados; reforma electoral, a contrarreloj. Economía: Wall Street duda de la economía fría; IPC 1,93%, núcleo en baja, rollover 136%; reservas US$50.236M, máximo del mes. Tecnología: supercargadores Tesla en rutas YPF; el banco de Mercado Pago sería Biz; bancos a los dólares digitales.\nHILO: malestar social y financiero, retroalimentados; Brasil define el domingo; el mercado cobra pruebas.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261018",
         "titulo": "Brief diario JUAN - 18 de octubre de 2026",
