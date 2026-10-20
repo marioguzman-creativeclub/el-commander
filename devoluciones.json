@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261020-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-20",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261019-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-19",
@@ -159,6 +167,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261020",
+        "titulo": "Brief diario JUAN - 20 de octubre de 2026",
+        "fecha": "2026-10-20",
+        "resumen": "MUNDO. Política: Trump-Zelenski, peor momento; Alberta vota seguir en Canadá (76%); ataque hutí en Yemen. Economía: venta histórica de tecnológicas; S&P: 2026 a 2,6%, más tasas; Asia cae, crudo sube, balances de IA. Tecnología: Intel: GPU de inferencia sin HBM; DeepSeek-Huawei, co-diseño de chips; OpenAI afloja los controles a China.\nLATAM. Política: Lula pide cassar la chapa de Flávio por Meta; encuestas empatadas; la seguridad desplaza a la economía. Economía: región resiliente y endeudada (FMI); crudo, primera exportación de Brasil; monedas firmes antes del balotaje. Tecnología: Scanntech, US$180M; Nu México ya es banco; Dapta, US$6M en agentes de ventas.\nARGENTINA. Política: sin votos para las PASO, suena extraordinarias; postergan la ley de Malvinas por EE.UU.; mega sesión: propiedad privada, discapacidad y deuda. Economía: riesgo país 675, máximo del año; BCRA compró US$1.000M en el mes; FMI baja crecimiento a 2,1%. Tecnología: tapi compra Arcus a Mastercard; Rebill, US$5,4M con gente de SpaceX; arranca Tecweek.\nHILO: Brasil se judicializa por el algoritmo de Meta; el capital cobra caro la narrativa agotada; la seguridad cede ante los negocios.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261019",
         "titulo": "Brief diario JUAN - 19 de octubre de 2026",
