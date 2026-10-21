@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261021-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-21",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261020-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-20",
@@ -167,6 +175,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261021",
+        "titulo": "Brief diario JUAN - 21 de octubre de 2026",
+        "fecha": "2026-10-21",
+        "resumen": "Mundo: Oslo destraba el canal Kiev-Washington (inteligencia restaurada, Witkoff va a ver a Putin); Rusia rechaza concesiones y una tregua energética; Francia despliega militares ante las protestas del sábado. Los mercados rebotan con el primer balance público de SpaceX (US$4.400M de ganancia) y Musk habla de fusionarla con Tesla; Netflix cae por su guía y el crudo sube por un ataque a un tanquero. EE.UU. sanciona al fondo chino MiraclePlus por el robo de secretos de IA de Google; GlobalFoundries abrirá dos fábricas en Nueva York con US$21.000M de Japón. América Latina: guerra judicial cruzada en el balotaje de Brasil (anulaciones mutuas por Meta y WhatsApp), Meio/Ideia da 51,1-48,9 para Flávio y Lula promete una PEC de tarifa cero. El Banco de España alerta por El Niño y Citi, por la caída de las nuevas derechas. Argentina: mega sesión hoy (tierras, discapacidad, endeudamiento), la PASO sigue trabada y la Casa Rosada admite alerta por el riesgo país, que tocó 710 y cerró en 672; blue récord $1.570 y Caputo rediseña su plan 2027. Navian gana los eAwards, UIN levanta US$2M y Mural elige el país de laboratorio. Hilo: los mercados premian solo a los que facturan.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261020",
         "titulo": "Brief diario JUAN - 20 de octubre de 2026",
