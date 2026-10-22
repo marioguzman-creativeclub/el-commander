@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261022-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-22",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261021-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-21",
@@ -175,6 +183,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261022",
+        "titulo": "Brief diario JUAN - 22 de octubre de 2026",
+        "fecha": "2026-10-22",
+        "resumen": "MUNDO: Witkoff-Putin: el Kremlin criticó el plan pero aceptó reanudar la ronda trilateral en noviembre; Rusia bombardeó Kiev esa noche. Macron prohibirá las protestas no sindicales; Lyon vedó todas las marchas. NYT: EEUU e Israel preparan ataques a Irán tras los midterms. Asia en mínimos de 3 meses por el costo de la IA; Brent a US$111 por ataques hutíes. Meta batió ingresos; alarma su plan de acciones sin voto; Tesla bajó su meta de 20 a 5 millones de autos. Google vendió sus TPU por primera vez (corren en Meta); DeepSeek levantó US$15.000M; WSJ: Musk ralentizó el Starlink militar de Ucrania. LATAM: Flávio Bolsonaro lidera 16 de 17 encuestas, en empate técnico; Lula perdonó deudas a 3,6 millones de MEIs y su campaña fue al TSE. Citi proyecta 2,1% regional en 2027; inflación al alza en 7 de 8 países; fusiones -26%. Jeeves levantó US$110M para stablecoins; Chile habilitó fondos de fondos. ARGENTINA: ley de Discapacidad con 237 votos, blindada ante el veto; endeudamiento volvió a comisión; ley de Tierras aprobada. La actividad cayó 1,7% y recortan el año a 1%; riesgo país 674. Unico compró Valida, Salvatto ganó el premio Muhammad Ali, Giraffe Bio US$6,4M.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261021",
         "titulo": "Brief diario JUAN - 21 de octubre de 2026",
