@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261023-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-23",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261022-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-22",
@@ -183,6 +191,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261023",
+        "titulo": "Brief diario JUAN - 23 de octubre de 2026",
+        "fecha": "2026-10-23",
+        "resumen": "MUNDO: el Kremlin confirmó negociación con Ucrania en Abu Dabi en noviembre; Putin endureció sus condiciones. Francia blinda el sábado con 70.000 efectivos y 500 detenidos; Macron recibe a los estudiantes. EEUU retira diplomáticos de Arabia Saudita y Aramco evacúa Dhahran por ataques hutíes. Wall Street tuvo su peor día desde junio: Meta -8%; Brent a US$114. Trump firmó diésel exento y US$8.000M para granjeros. Nvidia promete data centers en 14 días; OpenAI bajó su valoración a US$1,25 billones; gobiernos europeos fuera de línea por fallas en PHP. LATAM: el Datafolha final deja el balotaje 50 a 50; Lula y Flávio debaten esta noche en Globo; el TSE intimó a Meta y X. CEPAL recortó la región a 2%; México aceleró su inflación; el FMI bajó a Colombia. Tractian levantó US$130M y Alice US$40M; Tether apostó por la boliviana Peso. ARGENTINA: Milei recibe a Landau; el proyecto de Malvinas quedó sin fecha y el Gobierno cedió en discapacidad. Riesgo país 704 (+13,7% en octubre); LCG calcula una brecha de US$17.000M para 2027 y Caputo nombra el swap con China; dólar récord $1.528. Stargate cumplió un año sin contrato; fintech proyecta US$2.200M; llega Namirial.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261022",
         "titulo": "Brief diario JUAN - 22 de octubre de 2026",
