@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261024-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-24",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261023-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-23",
@@ -191,6 +199,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261024",
+        "titulo": "Brief diario JUAN - 24 de octubre de 2026",
+        "fecha": "2026-10-24",
+        "resumen": "MUNDO: Ucrania y Rusia canjearon 270 prisioneros por bando y habrá tregua para evacuar Oleshki. Francia vive otra jornada de protestas con 70.000 efectivos y un recurso contra Macron. Un misil hutí interceptado sobre Riad escala la crisis. Wall Street cayó otra vez con el Brent a US$116 y estrés en el crédito corporativo. La actividad de EEUU se modera con precios al alza; zarpó el primer diésel ruso a EEUU. OpenAI cortó internet a sus modelos; China globaliza a DeepSeek y MiniMax; IA médica de Microsoft acertó 83% de diagnósticos. LATAM: último debate en Brasil con el momento Ana Clara; hoy salen nueve encuestas finales. Ecuador encarceló a la opositora Luisa González. México perdió 718.000 empleos y el peso cae hace siete semanas; el real cerró bajo R$5. Scanntech levantó US$180M; Bold sumó crédito de BBVA Spark; Tether invirtió en EFY. ARGENTINA: sobreseyeron a Milei y Karina en $Libra; Malvinas apura dictamen; Landau avaló cambios y pidió disolver el Comité de Descolonización. Riesgo país 707, máximo anual; dólar récord $1.529,50; el BCRA ya compró US$1.200M en octubre. Nace la Cámara de Data Centers; Neolift ganó en Houston; se lanzó Alagro.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261023",
         "titulo": "Brief diario JUAN - 23 de octubre de 2026",
