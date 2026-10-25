@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261025-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-25",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261024-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-24",
@@ -199,6 +207,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261025",
+        "titulo": "Brief diario JUAN - 25 de octubre de 2026",
+        "fecha": "2026-10-25",
+        "resumen": "Domingo de urnas: Brasil vota el balotaje Lula-Bolsonaro, Serbia pone a prueba a Vucic tras dos años de protestas e Israel llega a su elección del martes con 250 familias palestinas expulsadas de Hebrón. MUNDO: Arabia Saudí reabre el aeropuerto de Riad bajo ataques hutíes; semana clave con la Fed y los balances de Alphabet, Microsoft y Amazon; China abre el pleno que ordena el rumbo a 2027; los bonos del Tesoro vuelven a proteger. OpenAI reanuda el entrenamiento sin internet, Altman advierte contra una IA con un solo ganador y un paciente recibe por primera vez virus diseñados por IA. LATAM: Luisa González presa en Riobamba; Sheinbaum defiende la 4T tras la auditoría al INE; Chile y Colombia definen tasas; Tulum pierde vuelos y un tercio de sus turistas; Tractian es unicornio, el BCR peruano abre Tapp a fintech e iFood compra Caju. ARGENTINA: el Gobierno debate reactivación y Milei dice que los indicadores no evolucionan; el plan para la Corte solo espera su firma; las encuestas marcan rechazo alto pero ventaja electoral; la inflación no baja del 2%, la industria usa el 40% de su capacidad y el blue cerró a $1.565. Tecweek sigue hasta el 31 y Mercado Ads lanzó Engag+.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261024",
         "titulo": "Brief diario JUAN - 24 de octubre de 2026",
