@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261026-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-26",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261025-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-25",
@@ -207,6 +215,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261026",
+        "titulo": "Brief diario JUAN - 26 de octubre de 2026",
+        "fecha": "2026-10-26",
+        "resumen": "Mundo: Lula ganó 51,8% a 48,2% y Bolsonaro no aceptó; Vucic admitió la derrota ante los estudiantes en Serbia; Israel vota mañana con el choque Netanyahu-Zamir por Irán; la Fed definiría el miércoles; Asia mixta, Brent en baja y tres potencias negocian en Teherán; China cerró su pleno. Tech: Anthropic negocia vender 10% a Blackstone por USD 9.000M; lobby de IA récord (USD 7,5M); la IA ya ataca infraestructura crítica. Latam: meltdown en Brasil, dólar derivado a R$5,55; peso mexicano -11% desde septiembre; Colombia recortó COP 14 billones; renunció Taddei al INE; González Urrutia: Brasil, faro regional; Scanntech mira a Colombia, Nu ya es banco en México y 10 startups chilenas desembarcaron allí. Argentina: Milei no saludó a Lula y republicó acusaciones de fraude; el resultado inquieta al Gobierno para 2027; CFK y la oposición celebraron; el BCRA compra dólares sin subir reservas netas; riesgo país sobre 700 pese al superávit; crecimiento más débil; Hub de Ganadería del INTA, SABIA-Mar el jueves y talleres blockchain de Celo y Ripio. Hilo: las urnas le ganaron una al negacionismo y el mercado le recuerda a Milei que el superávit no alcanza sin crecimiento.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261025",
         "titulo": "Brief diario JUAN - 25 de octubre de 2026",
