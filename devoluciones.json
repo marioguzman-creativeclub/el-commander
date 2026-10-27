@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261027-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-27",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261026-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-26",
@@ -215,6 +223,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261027",
+        "titulo": "Brief diario JUAN - 27 de octubre de 2026",
+        "fecha": "2026-10-27",
+        "resumen": "Mundo: Israel vota con leve ventaja opositora; Serbia confirma el triunfo estudiantil (52,5%, mayoría); Irán y tres potencias siguen dialogando en Teherán. La Fed haría una pausa mañana; Wall Street subió por la IA, Asia mixta; hipotecas europeas caen al mayor ritmo en 3 años. Anthropic pidió salir a bolsa (ingresos de USD 16.300M, pérdida récord); OpenAI lanzó GPT-6.1 Terra y dice que refutó la hipótesis ETH (a validar); Nvidia pone USD 3.000M en Meta. Latam: Bolsonaro reculó y será oposición; Sheinbaum reveló la presión de EEUU y verá a Lula; Machado volvió a Venezuela (fuente única); Brasil: dólar +8,2%, Bolsa -13,8%, JPMorgan recorta; Chile, tasa estable; Itaú compró NeoSpace por USD 580M; fondo agtech de USD 40M y fondo de fondos chileno. Argentina: Milei no reconocerá a Lula, único de la región; Bullrich faltó al Gabinete; el Senado busca sesionar el jueves; riesgo país en 765, máximo anual; CCL $1.681 y brecha 7,5%; maíz rumbo a un octubre récord; Tecweek porteña, startups premiadas y un test renal del CONICET validado. Hilo: el mercado le cobra a Lula el susto y el contagio llega a Buenos Aires; Milei eligió el aislamiento.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261026",
         "titulo": "Brief diario JUAN - 26 de octubre de 2026",
