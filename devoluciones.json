@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261028-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-28",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261027-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-27",
@@ -223,6 +231,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261028",
+        "titulo": "Brief diario JUAN - 28 de octubre de 2026",
+        "fecha": "2026-10-28",
+        "resumen": "Israel: con 84% escrutado, el bloque de Netanyahu lidera (54) pero lejos de la mayoría; la oposición duda entre pactar con los partidos árabes o darle aire. A 6 días de las midterms, los demócratas lideran. Se sostiene la tregua de Oleshky y Putin habló con líderes europeos por primera vez en un año. La Fed decide hoy, se espera pausa. CoreWeave (-41%) y las neoclouds encienden alarma de contagio. Microsoft ofrece retiros a un cuarto de su plantilla; hoy reportan las big tech, prueba de fuego de la IA. OpenAI negociaría chips de Google. Flávio Bolsonaro huyó vía Puerto Iguazú a EEUU; el Gobierno niega haber colaborado y calla sobre Lula. Delcy advierte \"que nadie se entrometa\" tras el regreso de Machado. Lula evalúa Hacienda: Alckmin o Fonteles. Venture capital latam +26%, México supera a Brasil. El FMI aprobó la tercera revisión, allana USD 900M; riesgo país 753 y los bonos dan 50% de chances de reelección. Milei inaugura litio de Río Tinto por USD 1.400M. El Senado iría mañana con salud mental e incentivos. Massa y Larreta se mueven con la \"enseñanza de Lula\". 8 científicas del CONICET levantaron +USD 40M para biotech. LABITCONF, viernes y sábado.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261027",
         "titulo": "Brief diario JUAN - 27 de octubre de 2026",
