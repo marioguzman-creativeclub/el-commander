@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261029-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-29",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261028-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-28",
@@ -231,6 +239,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261029",
+        "titulo": "Brief diario JUAN - 29 de octubre de 2026",
+        "fecha": "2026-10-29",
+        "resumen": "MUNDO. Israel: con +90% escrutado, ningún bloque llega a la mayoría. Midterms: CNN da a los demócratas ventaja en Michigan y Texas. Ucrania: tregua de Oleshky, 3er día. La Fed mantuvo tasas con dos disidencias pidiendo suba. Alphabet cayó 10% por flujo de caja negativo y Microsoft subió por capex moderado. Google lanzó Gemini 4 Carbon y OpenAI abarató GPT-6.1.\nLATAM. Bolsonaro llegó a Miami y se declaró \"líder legítimo\". Delcy monta campaña propia y Machado cruzó el país. Lula negocia entre fiscalistas y desarrollistas. El Ibovespa acumula -17% en la semana y Petrobras batió récord. Tractian se volvió unicornio e iFood compró Caju.\nARGENTINA. El Senado sesiona con salud mental en duda e incentivos fiscales. La Justicia investiga la salida de Bolsonaro y Migraciones admitió su ingreso tras negarlo. Karina Milei viaja a Rosario por el RIGI. Riesgo país en 763, cerca del máximo anual; el Tesoro renovó el 107% de vencimientos. Mercado Libre abrió su mayor centro logístico en Escobar.\nHILO. La IA rinde cuentas en flujo de caja, las urnas no cierran en Israel, EE.UU. ni Brasil, y la Argentina renueva deuda mientras el mercado solo desconfía de 2027.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261028",
         "titulo": "Brief diario JUAN - 28 de octubre de 2026",
