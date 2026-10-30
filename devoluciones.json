@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261030-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-30",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261029-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-29",
@@ -239,6 +247,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261030",
+        "titulo": "Brief diario JUAN - 30 de octubre de 2026",
+        "fecha": "2026-10-30",
+        "resumen": "MUNDO. Israel final: bloque de Netanyahu 53, a 8 de la mayoría. Midterms a 4 días: demócratas +8 y aprobación de Trump en 37%. Irán dice que 4 petroleros chocaron con minas en Ormuz y EE.UU. evalúa atacar tras la elección. Alphabet cerró -12% y arrastró al Nasdaq; el PCE subió a 3,6%. Binance sufrió el mayor hackeo cripto de la historia: USD 6.300M; el Brent saltó a USD 113. Asia defiende la demanda de IA.\nLATAM. Arrancó la campaña en Venezuela: Delcy confirma elecciones y Machado pide fecha. Itamaraty le pidió a Lula no escalar; el NYT reveló que la Casa Blanca gestionó el avión de Bolsonaro. Ibovespa: peor semana postelectoral desde 1989, -17,5%. Sheinbaum presume inversiones en Hidalgo. Celes levantó USD 5M.\nARGENTINA. El Senado aprobó la ley de salud mental y el régimen de incentivos. Comodoro Py preservará las filmaciones; un acta ubica a Santiago Caputo en la ruta 12 esa madrugada. Bonos rebotaron y riesgo país en 741; 1816 alerta que dólar bajo y riesgo alto chocan en enero. RIGI: USD 209.000M. El BCRA allanó la licencia de Mercado Banco.\nHILO. Todo pasa por el martes: midterms, Irán y la IA. La Argentina tiene una cita en enero con USD 4.500M.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261029",
         "titulo": "Brief diario JUAN - 29 de octubre de 2026",
