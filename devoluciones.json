@@ -14,6 +14,14 @@
     ],
     "marie": [
       {
+        "id": "marie-brief-20261031-guardado",
+        "titulo": "Brief de JUAN guardado",
+        "fecha": "2026-10-31",
+        "resumen": "El brief completo de hoy quedó guardado.",
+        "estado": "guardado",
+        "ejemplo": false
+      },
+      {
         "id": "marie-brief-20261030-guardado",
         "titulo": "Brief de JUAN guardado",
         "fecha": "2026-10-30",
@@ -247,6 +255,14 @@
       }
     ],
     "juan": [
+      {
+        "id": "juan-brief-20261031",
+        "titulo": "Brief diario JUAN - 31 de octubre de 2026",
+        "fecha": "2026-10-31",
+        "resumen": "MUNDO. A 3 días de las midterms, los modelos dan la Cámara a los demócratas y el Senado, al filo; Jamenei ordena responder a cualquier amenaza; Trump promete que la guerra terminará pronto. Intel cayó 29% (peor día desde los 70) y el Nasdaq sumó 3 semanas abajo; China se contrajo al peor ritmo en 3 meses; Binance halló más brechas y apunta a reabrir retiros. Google, OpenAI y Microsoft suman un estándar anti-scraping; Anthropic confiesa USD 80.000M de pérdida en su prospecto; Reddit dice que el modo IA de Google ya no manda tráfico. LATAM. Delcy promete elecciones sin fecha; Machado pide 2027. Keiko anuncia cárceles estilo CECOT; la derecha vecina reconoció a Lula; Milei no. Ibovespa: peor semana desde la pandemia; México: PIB 3,2%, pero el peso cerró en 19. ARGENTINA. Santilli ya es jefe de Gabinete y el Gobierno busca ordenar internas antes del Papa (8/11, 39 años sin visita papal); el Congreso investiga a SIDE y Caputo por la fuga de Bolsonaro. El riesgo país cerró en 787, máximo anual; YPF pidió un RIGI de USD 8.729M en Vaca Muerta; inflación: ~1,9%. Tres fintechs avanzan para ser bancos; Satellites on Fire entra al programa satelital de Google y Bezos.",
+        "estado": "publicado",
+        "ejemplo": false
+      },
       {
         "id": "juan-brief-20261030",
         "titulo": "Brief diario JUAN - 30 de octubre de 2026",
